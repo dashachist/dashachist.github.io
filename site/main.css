@@ -2,12 +2,12 @@ p {
 	/*Можно менять*/
 	font-size: 32px;
 	/*Можно менять*/
-	color: orange;
+	color: black;
 }
 
 main {
 	/*Можно менять*/
-	width: 90%;
+	width: 95s%;
 	/*Ничего не трогаем*/
 	margin: auto;
 	/*Ничего не трогаем*/
@@ -20,7 +20,7 @@ main {
 
 body {
 	/*Можно менять*/
-	background-color: #fff5ea; 
+	background-color: #85da23 ; 
 	/*Ничего не трогаем*/
 	margin: 0;
 }
@@ -34,9 +34,9 @@ img {
 
 h1 {
 	/*Можно менять*/
-	font-size: 60px;
+	font-size: 65px;
 	/*Можно менять*/
-	color: orange;
+	color: black;
 	/*Ничего не трогаем*/
 	text-align: center;
 	/*Ничего не трогаем*/
